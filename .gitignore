@@ -1,4 +1,1 @@
-/node_modules
-/data/products.json
-
-package-lock.json
+node_modules
